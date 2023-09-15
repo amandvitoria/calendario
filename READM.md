@@ -41,9 +41,9 @@ Esse projeto é utilizado para ver o dia, e se o usuario quiser marcar um dia es
 
    - `README`
 
-   - `CSS`  
+   - `CSS3`  
 
-   - `HTML`  
+   - `HTML5`  
 
    - `JS`  
  
