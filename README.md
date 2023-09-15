@@ -26,6 +26,8 @@ Esse calendario feito na aula de progamação do marista, é um calendario digit
 
 Esse projeto é utilizado para ver o dia, e se o usuario quiser marcar um dia especifico ele pode selecionar uma cor para destacar.
 
+![gif](img/Gravando-2023-09-15-095325.gif)
+
 
 ### 🛠️ Tecnologias Utilizadas
 
@@ -33,9 +35,9 @@ Esse projeto é utilizado para ver o dia, e se o usuario quiser marcar um dia es
 
    - `README`
 
-   - `CSS`  
+   - `CSS3`  
 
-   - `HTML`  
+   - `HTML5`  
 
    - `JS`  
  
